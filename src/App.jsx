@@ -3,7 +3,7 @@ import ReactangleCircle from "./components/ReactangleCircle";
 import Home from "./components/Home";
 import NavBar from "./components/NavBar";
 import CommentApp from "./components/Comment";
-import InfiniteLoad from "./components/infiniteLoad";
+import InfiniteLoad from "./components/InfiniteLoad";
 import ButtonLoading from "./components/ButtonLoading";
 
 function App() {
