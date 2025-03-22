@@ -16,6 +16,9 @@ export default function InfiniteLoad() {
   }, []);
   return (
      <div className="flex flex-col gap-12 bg-black h-screen w-screen justify-center items-center">
+      <h1 className='text-white text-3xl md:text-5xl italic  mx-auto text-center'>
+        Loading ...<span className='text-gray-500  text-lg font-black' >  [Forth and Back] </span>
+      </h1>
          <div id="outer" style={{backgroundColor: "white" , border: "0.1px solid red" ,
                          height: "12px" , width: "400px", position: "relative"      
                  }}>
