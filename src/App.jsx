@@ -22,6 +22,11 @@ function App() {
       <Route path="/loadBar" element={<InfiniteLoad/> } />
       <Route path="/buttonLoad" element={<ButtonLoading/> } />
      </Routes>
+
+
+     {/* here is just i check if i merge will i get any this , acheivement */}
+
+     {/* as of now i am not getting any achievement, thinking because of my private repos */}
     </>
   )
 }
